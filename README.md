@@ -14,5 +14,7 @@ Criei um sistema de cadastro de uma quitanda, onde o sistema é capaz de:
 
 - 3- Visualizar detalhes de cada produto
 
-- 4- Deletar um produto.
+- 4-Atualizar produtos.
+
+- 5- Deletar um produto.
 
